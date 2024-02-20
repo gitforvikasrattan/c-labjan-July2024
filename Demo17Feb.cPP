@@ -9,10 +9,10 @@ class Complex
     int real;
 
 public:
-     void input(int arg1)
+     void input(int p1)
       {
 
-          real = img = arg1;
+          real = img = p1;
       }
 
       void input(int arg1, int arg2)
